@@ -14,4 +14,4 @@ A beginner Flutter practice project that displays a simple restaurant menu UI wi
 
 ## Screenshot
 
-![App Screenshot](screenshot.png)
+![App Screenshot](Screenshot 2026-05-10 012429.png)
